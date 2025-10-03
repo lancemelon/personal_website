@@ -386,7 +386,7 @@ export function AboutSection() {
                 <div className="flex justify-center">
                   <iframe
                     style={{ borderRadius: "12px" }}
-                    src="https://open.spotify.com/embed/playlist/56xSa7cjjPLY7pXSgCyHn9?utm_source=generator"
+                    src="https://open.spotify.com/embed/playlist/07e59tspqCnZUACTbmS2dF?utm_source=generator"
                     width="100%"
                     height="352"
                     frameBorder="0"

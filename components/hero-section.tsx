@@ -38,7 +38,7 @@ export function HeroSection() {
             className="flex flex-col sm:flex-row gap-4 justify-center items-center"
           >
             <Button size="lg" className="font-open-sans font-medium">
-              <a href="/lance_resume_2025.pdf" target="_blank" rel="noopener noreferrer">
+              <a href="/lance_resume_10_25.pdf" target="_blank" rel="noopener noreferrer">
                 <Download className="mr-2 h-4 w-4" />
                 View Resume
               </a>
